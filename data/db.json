@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Teste2",
+      "preco": "27",
+      "estoque": "2",
+      "id": "398f"
+    }
+  ]
+}
